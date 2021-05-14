@@ -1,1 +1,7 @@
-{ "text": "#e3e3e3", "background": "#1b262c", "muted": "#0f4c75", "primary": "#bbe1fa", "secondary": "#3282b8" }
+{
+    "text": "#1cebc8",
+    "background": "#2d78ff",
+    "muted": "#45bcd4",
+    "primary": "#aeff9c",
+    "secondary": "#6800e8"
+}
