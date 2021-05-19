@@ -23,4 +23,5 @@ if (ANALYTICS_ID) {
 
 module.exports = {
   plugins,
+  pathPrefix: "/personal-portfolio-mate",
 };
